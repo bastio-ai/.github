@@ -140,6 +140,17 @@ AI security tooling should be transparent — not a black box. We're working tow
 
 ---
 
+## 🌟 Open Source
+
+### 🔧 [bast](https://github.com/bastio-ai/bast) — AI-Powered Terminal Assistant
+Open-source CLI that brings security to AI-powered terminal operations. Describe tasks in plain English, get shell commands instantly. Features automatic PII redaction, jailbreak protection, and integrates with Bastio AI Security Gateway.
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![GitHub](https://img.shields.io/github/stars/bastio-ai/bast?style=social)](https://github.com/bastio-ai/bast)
+
+---
+
 ## Get Started
 
 <p align="center">
